@@ -1,0 +1,29 @@
+baseURL = "https://inside.evilfactory.id"
+languageCode = "en"
+title = "Inside evilfactorylabs"
+theme = "hugo-nuo"
+enableRobotsTXT = true
+PygmentsCodeFences = true
+canonifyurls = true
+googleAnalytics = "UA-131540514-3"
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce. "
+customStyle = "styles/custom.scss"
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[params]
+  author = "evilfactory"
+  avatar = "images/logo.png"
+  seotitle = "On building evilfactory"
+  subtitle = "on building evilfactory"
+  description = "Our journey on how we build evilfactory"
+  paginate = 10
+  email = "hello@evilfactory.id"
+  github = "evilfactorylabs"
+  twitter = "evilfactorylabs"
+  instagram = "evilfactorylabs"
+  vimeo = "evilfactorylabs"
