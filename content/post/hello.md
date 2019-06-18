@@ -3,8 +3,11 @@ title: 'Hello'
 date: 2019-06-18T19:50:56+07:00
 draft: false
 author: 'faultable'
-summary: We just getting started.
 ---
+
+We just getting started.
+
+<!--more-->
 
 Honestly we have 2 blog, [this blog was](https://github.com/evilfactorylabs/blog/issues) our primary blog for
 writing any _technical_ thing(s), and here is for writing anything that related with evilfactory in

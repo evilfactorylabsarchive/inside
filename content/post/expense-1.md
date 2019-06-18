@@ -4,8 +4,11 @@ author: 'faultable'
 tags: ['Expense']
 date: 2019-06-11T06:31:00+07:00
 draft: false
-summary: June 2019
 ---
+
+June 2019
+
+<!--more-->
 
 ## kredit
 
