@@ -7,7 +7,6 @@ PygmentsCodeFences = true
 canonifyurls = true
 googleAnalytics = "UA-131540514-3"
 copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce. "
-customStyle = "styles/custom.scss"
 
 [[menu.main]]
   name = "Home"
@@ -27,3 +26,4 @@ customStyle = "styles/custom.scss"
   twitter = "evilfactorylabs"
   instagram = "evilfactorylabs"
   vimeo = "evilfactorylabs"
+  customStyle = "styles/custom.scss"
