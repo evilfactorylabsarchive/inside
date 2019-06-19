@@ -34,6 +34,21 @@ hr::before {
   border: none;
 }
 
+.post-content a {
+  border: 0;
+}
+
+.post-content a:hover,
+.post-content a:focus,
+.post-content a:active {
+  border: 0;
+  text-decoration: underline;
+}
+
+.post-content img {
+  box-shadow: none;
+}
+
 .avatar:hover {
   transform: none;
 }
@@ -50,6 +65,7 @@ hr::before {
 
 .post-entry + .post-entry {
   border-color: transparent;
+  margin-top: 2rem;
 }
 
 .title {
@@ -78,6 +94,24 @@ hr::before {
 .post-detail .post-footer .post-copyright strong,
 .post-detail .post-footer .post-copyright {
   color: #ddd;
+}
+
+.post-summary,
+.post-detail .post-footer,
+.post-detail .post-header,
+.post-content {
+  max-width: 100%;
+  width: 666px;
+}
+
+.post-detail .post-footer,
+.post-detail .post-header,
+.post-content {
+  margin: auto;
+}
+
+.post-summary {
+  margin-right: auto;
 }
 
 .post-content,
