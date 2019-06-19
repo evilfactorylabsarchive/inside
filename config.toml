@@ -14,6 +14,12 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   identifier = "home"
   url = "/"
 
+[[menu.main]]
+  name = "Start Here"
+  weight = 20
+  identifier = "start"
+  url = "/post/hello/"
+
 [params]
   author = "evilfactory"
   avatar = "images/logo.png"
